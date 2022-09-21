@@ -64,10 +64,9 @@ body {
     background-color:#161515;
     color: #ffffff;
     text-decoration: none;
+    text-align: center;
     font-size: 32px;
     line-height: 82px;
-
-
 }
 
 .price {
@@ -78,4 +77,9 @@ body {
     text-decoration: none;
     font-size: 32px;
     line-height: 82px;
+    text-align: center;
+}
+.header-img {
+    display: block;
+    
 }
